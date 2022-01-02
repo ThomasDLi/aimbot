@@ -41,6 +41,7 @@ while True:
 
         elif(halfx > int(camw / 2) + 50):
             print("right")
+            requests.get("http://192.168.4.1/right")
 
         elif(halfy < int(camh / 2) - 50):
             print("up")
