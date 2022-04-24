@@ -6,3 +6,4 @@ It sends movement data to the ESP32, which wirelessly sends it to the ESP32 on t
 The 3 parts work together to provide a seamless experience of a bluetooth, handheld, wireless aimbot turret.
 
 demo: https://media.discordapp.net/attachments/937601702608125963/966136262585118820/IMG_2219.mp4
+(It is connected to the computer for power, no instructions are being run though the USB cable)
