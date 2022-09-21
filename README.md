@@ -5,5 +5,8 @@ python code works by detecting faces via fd.xml trained AI algorithm, which is t
 It sends movement data to the ESP32, which wirelessly sends it to the ESP32 on the turret, which controls 2 stepper motors, one left-right, one up-down, capable of moving the gun in all 360 degrees.
 The 3 parts work together to provide a seamless experience of a bluetooth, handheld, wireless aimbot turret.
 
-demo: https://media.discordapp.net/attachments/937601702608125963/966136262585118820/IMG_2219.mp4
+demo: 
+
+https://user-images.githubusercontent.com/77999105/191400149-8cb20c58-4b1a-418a-9170-990aac0e5609.mp4
+
 (It is connected to the computer for power, no instructions are being run though the USB cable)
